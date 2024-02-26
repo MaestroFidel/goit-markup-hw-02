@@ -172,9 +172,15 @@ footer {
 .adress {
   font-style: normal;
 }
-.index:hover {
+.navigator .index:hover {
   color: #404bbf;
 }
-.index:focus {
+.navigator .index:focus {
+  color: #404bbf;
+}
+.adress .contacts:hover {
+  color: #404bbf;
+}
+.adress .contacts:focus {
   color: #404bbf;
 }
