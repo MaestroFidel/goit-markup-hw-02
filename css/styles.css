@@ -1,5 +1,5 @@
 body {
-  font-family: "roboto", "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -157,7 +157,7 @@ footer {
 .our-port {
   line-height: 1.11;
 }
-.studio {
+.logostud {
   color: #f4f4fd;
 }
 .foot-par {
@@ -172,15 +172,9 @@ footer {
 .adress {
   font-style: normal;
 }
-.index .link:hover {
+.index:hover {
   color: #404bbf;
 }
-.index .link:focus {
-  color: #404bbf;
-}
-.header-nav .link:focus {
-  color: #404bbf;
-}
-.header-nav .link:hover {
+.index:focus {
   color: #404bbf;
 }
