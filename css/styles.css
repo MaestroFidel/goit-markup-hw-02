@@ -172,3 +172,9 @@ footer {
 .adress {
   font-style: normal;
 }
+.index:hover {
+  color: #404bbf;
+}
+.index:focus {
+  color: #404bbf;
+}
