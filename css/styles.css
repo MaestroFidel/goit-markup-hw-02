@@ -172,15 +172,15 @@ footer {
 .adress {
   font-style: normal;
 }
-.index:hover {
+.index .link:hover {
   color: #404bbf;
 }
-.index:focus {
+.index .link:focus {
   color: #404bbf;
 }
-.header-nav:focus {
+.header-nav .link:focus {
   color: #404bbf;
 }
-.header-nav:hover {
+.header-nav .link:hover {
   color: #404bbf;
 }
