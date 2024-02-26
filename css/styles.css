@@ -131,3 +131,29 @@ footer {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.about-head {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.about-par {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.our-team {
+  background-color: #f4f4fd;
+}
+.ourteam-head {
+  line-height: 1.11;
+}
+.ourteam-list {
+  background-color: #ffffff;
+}
+.our-port {
+  line-height: 1.11;
+}
