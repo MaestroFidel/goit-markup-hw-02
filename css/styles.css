@@ -186,3 +186,11 @@ footer {
 .adress .contacts:focus {
   color: #404bbf;
 }
+.port-img {
+  width: 360px;
+  height: 300px;
+}
+.team-img {
+  width: 264px;
+  height: 260px;
+}
