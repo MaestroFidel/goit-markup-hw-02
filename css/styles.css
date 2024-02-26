@@ -19,9 +19,11 @@ body {
   text-decoration: none;
   line-height: 1.17;
 }
-.logo span {
+
+.sudio {
   color: #2e2f42;
 }
+
 .navigator a {
   cursor: pointer;
   text-decoration: none;
