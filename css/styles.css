@@ -163,3 +163,12 @@ footer {
 .foot-par {
   color: #f4f4fd;
 }
+.header-nav:hover {
+  color: #404bbf;
+}
+.header-nav:focus {
+  color: #404bbf;
+}
+.adress {
+  font-style: normal;
+}
