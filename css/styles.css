@@ -178,3 +178,9 @@ footer {
 .index:focus {
   color: #404bbf;
 }
+.header-nav:focus {
+  color: #404bbf;
+}
+.header-nav:hover {
+  color: #404bbf;
+}
