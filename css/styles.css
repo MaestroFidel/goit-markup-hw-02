@@ -200,12 +200,3 @@ footer {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.portfolio-img {
-}
-width: 360px;
-height: 300px;
-
-.team-img {
-  width: 264px;
-  height: 260px;
-}
